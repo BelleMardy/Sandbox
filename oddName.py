@@ -16,6 +16,5 @@ def main():
     in_file = open("name.txt", "r")
     second_name_read = (in_file.read())
     print(second_name_read)
-    print(second_name_read)
     in_file.close()
 main()
