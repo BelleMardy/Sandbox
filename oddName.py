@@ -1,5 +1,6 @@
 NAME_LENGTH = 0
 
+
 def main():
     out_file = open("name.txt", "w")
     name = input("Enter name: ")
